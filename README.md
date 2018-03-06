@@ -6,6 +6,10 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+  ruby 2.4.1
+  
+* Rails version
+  Rails 5.1.4
 
 * System dependencies
 
@@ -23,4 +27,4 @@ Things you may want to cover:
 
 * ...
 # books_app
-# textbook_books_app
+
